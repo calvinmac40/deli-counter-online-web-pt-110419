@@ -20,6 +20,6 @@ def take_a_number(deli,name)
     puts "Welcome, #{name}. You are number #{deli.index(name) + 1} in line."
     
     else 
-    puts "Welcome, #{name}. you are number #{deli.index(name) + 1} in line."
+     "Welcome, #{name}. you are number #{deli.index(name) + 1} in line."
   end
 end
